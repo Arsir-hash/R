@@ -22,3 +22,8 @@ operatorNumeric <- c(1:10)
 # Menampilkan isi dari operatorNumeric yang berurut dari 1 hingga 10
 print(operatorNumeric)
 
+# Variable vector nama_mahasiswa dengan input character
+nama_mahasiswa <- c("Jack","Brian","Ermac")
+
+# Menampilkan isi dari variable  vector nama_mahasiswa
+print(nama_mahasiswa)
